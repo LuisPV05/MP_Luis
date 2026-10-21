@@ -1,4 +1,4 @@
-# MP_Luis — Análisis de K-mers en secuencias de ADN
+# MP_Luis — Análisis de Kmers en secuencias de ADN
 
 Repositorio de prácticas de **Metodología de la Programación (MP)**, centrado en el procesamiento y análisis de secuencias genéticas mediante *k-mers* y en el desarrollo progresivo de herramientas para trabajar con perfiles de ADN.
 
@@ -101,21 +101,6 @@ MP_Luis/
 ├── HelloWorld/     # Proyecto introductorio
 └── README.md
 ```
-
-## Compilación y ejecución
-
-Los proyectos incluyen archivos `Makefile` y configuraciones de NetBeans. Para compilar una versión concreta desde una terminal, entra en su directorio y utiliza el Makefile correspondiente.
-
-Por ejemplo:
-
-```bash
-cd Kmer0
-make
-```
-
-Los comandos y opciones de ejecución pueden variar entre versiones. Consulta el código fuente y los archivos de ayuda de cada programa para conocer sus argumentos y formatos de entrada.
-
-En las versiones que trabajan con archivos de ADN o perfiles, utiliza los ficheros de entrada que correspondan al formato esperado por el programa.
 
 ## Objetivos de aprendizaje
 
